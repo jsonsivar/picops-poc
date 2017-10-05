@@ -5,7 +5,7 @@
 ## Functionality Fit
 
 | Functionality | PICOPS | uPort |
-|-|-|-|-
+|---|---|---|---
 | Digital identity | | |
 |--- Identity proxy | N | Y |
 |--- Generic attestations (to be used for t&c acceptances) | N | Y |
@@ -24,7 +24,7 @@
 ## Integrations
 
 | Integration | PICOPS | uPort |
-|-|-|-|-
+|---|---|---|
 | Hosted Middleware/APIs | Y |  N |
 | Contract-level integration | Y |   |
 | Managed integration of smart contracts to OnFido | Y |   |
@@ -36,7 +36,7 @@
 ## Readiness/Commercial
 
 | Consideration | PICOPS | uPort |
-|-|-|-|-
+|---|---|---|
 | Release phase | Production | Development |
 | User controlled mobile app | N | Y |
 | License | MIT | Apache v2 |
