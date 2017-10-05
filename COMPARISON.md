@@ -5,7 +5,7 @@
 ## Functionality Fit
 
 | Functionality | PICOPS | uPort |
-|---|---|---|---
+|---|---|---|
 | Digital identity | | |
 |--- Identity proxy | N | Y |
 |--- Generic attestations (to be used for t&c acceptances) | N | Y |
