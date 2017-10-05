@@ -4,6 +4,7 @@
 
 ## Functionality Fit
 
+
 | Functionality | PICOPS | uPort |
 |---|---|---|
 | Digital identity | | |
@@ -23,6 +24,7 @@
 
 ## Integrations
 
+
 | Integration | PICOPS | uPort |
 |---|---|---|
 | Hosted Middleware/APIs | Y |  N |
@@ -31,9 +33,9 @@
 | SDK | N |  Y (JavaScript) |
 | API boilerplate | Y (JavaScript) |  N |
 | Front-end boilerplate| Y (JavaScript) |  N |
-| Overall development complexity for token launch team| Medium |  Low |
 
 ## Readiness/Commercial
+
 
 | Consideration | PICOPS | uPort |
 |---|---|---|
@@ -44,6 +46,7 @@
 
 ## Misc
 
+* Both option seem to have very similar implementation complexity on the token launch team side, but uPort is more feature rich and library/SDK rich
 * "Key stakeholders are identified and notified in the case of a grave security issue that has been found 'in the wild'"
     * Not sure if this is regarding users of the system like us or registrants, but should try to get on this list if we plan to use it
 * "Any major user of PICOPS, determined as a user that has demonstrably referred more than 1000 certification requests, is entitled to commision, at their own expense, an independent security audit"
